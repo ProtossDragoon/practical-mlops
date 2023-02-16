@@ -2,6 +2,10 @@
 
 ## 예시1: 2장 8절
 
+| 저자 | 역자 |
+|:---:|:---:|
+| [![github](./github-mark.svg)](https://github.com/noahgift/greedy_coin) | [![github](./github-mark.svg)](https://github.com/ProtossDragoon/greedy-change) |
+
 ### 작동하지 않는 소스코드 리팩터링
 
 - python2 기반의 소스코드를 python3 기반의 소스코드로 수정했습니다.
