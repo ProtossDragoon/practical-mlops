@@ -24,7 +24,7 @@
 
 ## 목차
 
-| 책 | 실습내용 | 저자 소스코드 | 역자 소스코드 |
+| 책 | 실습내용 | 저자 | 역자 |
 | --- | --- | --- | --- |
 | 2.8 | 잔돈 반환 방식을 통해 그리디와 머신러닝의 개념을 이해합니다. | [깃허브](https://github.com/noahgift/greedy_coin) | [깃허브](https://github.com/ProtossDragoon/greedy-change) |
 | 2.8 | 외판원 순회 문제를 통해 그리디와 머신러닝의 개념을 이해합니다. |[깃허브](https://github.com/noahgift/or) | [깃허브](https://github.com/ProtossDragoon/greedy-tsp) |
