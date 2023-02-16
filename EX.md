@@ -18,10 +18,15 @@
 
 ### 이해에 불필요한 소스코드, 미사여구, 주석, 파일 제거
 
+- 한국 독자들의 이해에 방해되는 '달러' 와 '센트' 를 제거하고 '원' 으로 변경했습니다.
 - 의미없는 테스트를 제거하고 그리디의 특성을 잘 나타낼 수 있는 테스트로 변경했습니다.
 - 실습에 사용되지 않는 파일들을 다수 제거했습니다.
 
 ## 예시2: 2장 11절
+
+| 저자 | 역자 |
+|:---:|:---:|
+| [![github](./github-mark.svg)](https://github.com/noahgift/flask-ml-azure-serverless) | [![github](./github-mark.svg)](https://github.com/ProtossDragoon/flask-ml-azure) |
 
 ### 작동하지 않는 소스코드 리팩터링
 
