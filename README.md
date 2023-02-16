@@ -25,7 +25,7 @@
 ## 목차
 
 | 책 | 실습내용 | 저자코드 | 역자코드 |
-| --- | --- | --- | --- |
+| --- | --- |:---:|:---:|
 | 2.8 | 잔돈 반환 방식을 통해 그리디와 머신러닝의 개념을 이해합니다. | [![github](./github-mark.svg)](https://github.com/noahgift/greedy_coin) | [![github](./github-mark.svg)](https://github.com/ProtossDragoon/greedy-change) |
 | 2.8 | 외판원 순회 문제를 통해 그리디와 머신러닝의 개념을 이해합니다. |[![github](./github-mark.svg)](https://github.com/noahgift/or) | [![github](./github-mark.svg)](https://github.com/ProtossDragoon/greedy-tsp) |
 | 2.11 | 주어진 머신러닝 모델과 애저 파이프라인을 이용하여 애저 앱 서비스에 플라스크 머신러닝 애플리케이션을 배포합니다. | [![github](./github-mark.svg)](https://github.com/noahgift/flask-ml-azure-serverless) | [![github](./github-mark.svg)](https://github.com/ProtossDragoon/flask-ml-azure) |
