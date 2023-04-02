@@ -34,6 +34,7 @@
 | 5.6 | 오픈소스 AutoML 프레임워크 Ludwig 을 이용하여 간단한 머신러닝 모델을 학습시킵니다. |  | [![github](./github-mark.svg)](https://github.com/ProtossDragoon/ludwig-quickstart/blob/main/notebook/Ludwig.ipynb) |
 | 7.1 | S3와 휴고를 이용해 정적 웹 사이트를 배포합니다. | [![github](./github-mark.svg)](https://github.com/noahgift/dukehugofeb1) |  |
 | 7.1 | AWS 코드빌드와 AWS Elastic Beanstalk을 이용해 플라스크 웹 애플리케이션을 배포합니다. | [![github](./github-mark.svg)](https://github.com/noahgift/Flask-Elastic-Beanstalk) | [![github](./github-mark.svg)](https://github.com/ProtossDragoon/flask-elastic-beanstalk) |
+| 7.1 | AWS 앱러너를 이용해 플라스크 웹 애플리케이션을 배포합니다. |  | [![github](./github-mark.svg)](https://github.com/ProtossDragoon/flask-fargate-apprunner) |
 | 7.2 | 다양한 프로젝트에 범용적으로 사용 가능한 파일들과 이들의 역할을 이해하고, AWS 앱러너에 머신러닝 모델이 포함된 플라스크 웹 애플리케이션을 배포합니다. | [![github](./github-mark.svg)](https://github.com/noahgift/Python-MLOps-Cookbook) | [![github](./github-mark.svg)](https://github.com/ProtossDragoon/mlops-recipe) |
 | 7.3 | AWS SAM을 이용하여 머신러닝 모델이 포함된 플라스크 웹 애플리케이션을 배포합니다. | [![github](./github-mark.svg)](https://github.com/noahgift/Python-MLOps-Cookbook/tree/main/recipes/aws-lambda-sam) | [![github](./github-mark.svg)](https://github.com/ProtossDragoon/aws-sam) |
 
