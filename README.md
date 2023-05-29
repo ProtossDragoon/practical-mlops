@@ -14,7 +14,7 @@
   </tr>
   <tr>
     <td>Practical MLOps<br>노아 기프트, 알프레도 데자</td>
-    <td>실전 MLOps<br>이장후, 이일섭</td>
+    <td>실전 MLOps<br>이장후, 이일섭, 서기원</td>
   </tr>
 </tbody>
 </table>
@@ -32,7 +32,7 @@
 | 3.1 | 최소한의 의존성, 애플리케이션 소스코드, 머신러닝 모델을 포함하는 컨테이너 이미지를 빌드합니다. |  | [![github](./github-mark.svg)](https://github.com/ProtossDragoon/flask-docker) |
 | 4.1 | 깃허브 액션을 이용해 ONNX 모델을 애저 모델 레지스트리에서 다운로드받고 컨테이너화하여 여러 컨테이너 레지스트리에 푸시합니다. |  | [![github](./github-mark.svg)](https://github.com/ProtossDragoon/flask-docker-onnx-azure) |
 | 5.6 | 오픈소스 AutoML 프레임워크 Ludwig 을 이용하여 간단한 머신러닝 모델을 학습시킵니다. |  | [![github](./github-mark.svg)](https://github.com/ProtossDragoon/ludwig-quickstart/blob/main/notebook/Ludwig.ipynb) |
-| 5.7 | 오픈소스 모델 설명력 라이브러리 ELI5 을 이용하여 간단한 시각화를 실습합니다. | [![github](./github-mark.svg)](https://github.com/noahgift/model-explainability) |  |
+| 5.7 | 오픈소스 모델 설명력 라이브러리 ELI5, SHAP 을 이용하여 간단한 시각화를 실습합니다. | [![github](./github-mark.svg)](https://github.com/noahgift/model-explainability) |  |
 | 7.1 | S3와 휴고를 이용해 정적 웹 사이트를 배포합니다. | [![github](./github-mark.svg)](https://github.com/noahgift/dukehugofeb1) |  |
 | 7.1 | AWS 코드빌드와 AWS Elastic Beanstalk을 이용해 플라스크 웹 애플리케이션을 배포합니다. | [![github](./github-mark.svg)](https://github.com/noahgift/Flask-Elastic-Beanstalk) | [![github](./github-mark.svg)](https://github.com/ProtossDragoon/flask-elastic-beanstalk) |
 | 7.1 | AWS 앱러너를 이용해 플라스크 웹 애플리케이션을 배포합니다. |  | [![github](./github-mark.svg)](https://github.com/ProtossDragoon/flask-fargate-apprunner) |
