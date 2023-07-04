@@ -9,8 +9,8 @@
 </thead>
 <tbody align="center">
   <tr>
-    <td><img width="" src="https://user-images.githubusercontent.com/58792/121539559-c6787e80-c9d3-11eb-9f48-5d25924fad25.png"></td>
-    <td><img width="" src="https://user-images.githubusercontent.com/58792/121539559-c6787e80-c9d3-11eb-9f48-5d25924fad25.png"></td>
+    <td><img width="300" src="https://github.com/ProtossDragoon/practical-mlops/assets/46595649/4bdb038b-3bc4-4197-9859-0cdfe0561884"></td>
+    <td><img width="300" src="https://github.com/ProtossDragoon/practical-mlops/assets/46595649/9fdd5110-da8b-4497-84f3-406c85c81657"></td>
   </tr>
   <tr>
     <td>『Practical MLOps』<br>노아 기프트, 알프레도 데자</td>
