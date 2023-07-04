@@ -55,7 +55,12 @@
 본 저장소나 『MLOps 실전 가이드』 의 내용을 인용하실 때에는 아래 내용을 사용하시면 편리합니다.
 
 ```
-@book{noahgift2021practical,
-    TODO
+@book{Practical-MLOps,
+  title={MLOps 실전 가이드: DevOps와 MLOps의 이론과 실습부터 클라우드 컴퓨팅, AutoML, 엣지 컴퓨팅까지},
+  author={노아 기프트, 알프레도 데자, 이장후(역), 이일섭(역), 서기원(역)},
+  isbn={9791169211215},
+  url={https://www.hanbit.co.kr/media/books/book_view.html?p_code=B9385341956},
+  year={2023},
+  publisher={한빛미디어}
 }
 ```
