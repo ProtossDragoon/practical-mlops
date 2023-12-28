@@ -4,7 +4,7 @@
 
 | 저자 | 역자 |
 |:---:|:---:|
-| [![github](./github-mark.svg)](https://github.com/noahgift/greedy_coin) | [![github](./github-mark.svg)](https://github.com/ProtossDragoon/greedy-change) |
+| [src](https://github.com/noahgift/greedy_coin) | [src](https://github.com/ProtossDragoon/greedy-change) |
 
 ### 작동하지 않는 소스코드 리팩터링
 
@@ -26,7 +26,7 @@
 
 | 저자 | 역자 |
 |:---:|:---:|
-| [![github](./github-mark.svg)](https://github.com/noahgift/flask-ml-azure-serverless) | [![github](./github-mark.svg)](https://github.com/ProtossDragoon/flask-ml-azure) |
+| [src](https://github.com/noahgift/flask-ml-azure-serverless) | [src](https://github.com/ProtossDragoon/flask-ml-azure) |
 
 ### 작동하지 않는 소스코드 리팩터링
 
